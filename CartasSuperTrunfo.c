@@ -26,7 +26,7 @@ scanf("%s", &nomedacidade);
 printf("Digite o Número de População: \n");
 scanf("%d", &populacao);
 
-printf("Digite a Área em km²: \n");
+printf("Digite a Área: \n");
 scanf("%f", &area);
 
 printf("Digite o PIB: \n");
