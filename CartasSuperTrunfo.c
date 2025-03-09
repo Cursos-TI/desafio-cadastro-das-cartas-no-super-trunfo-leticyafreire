@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main (){
-
+printf("Novo commit \n")
 int carta;
 int populacao;
 int numerodepontosturisticos;
